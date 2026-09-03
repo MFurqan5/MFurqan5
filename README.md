@@ -178,7 +178,7 @@ Identifies repeat attackers via behavioral fingerprinting, auto-submits maliciou
 
 <p align="center">
   <a href="https://leetcode.com/mfurqan">
-    <img src="https://img.shields.io/badge/LeetCode-Problems Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-Problems Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://hackerrank.com/mfurqan">
     <img src="https://img.shields.io/badge/HackerRank-Certifications%20-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
