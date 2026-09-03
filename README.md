@@ -253,6 +253,7 @@ current_focus:
     - Senior Software Engineer / AI Engineer Roles
     - Technical Leadership & Architecture Positions
     - Open Source Collaborations
+```
 
 ---
 
