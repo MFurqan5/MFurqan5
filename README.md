@@ -65,7 +65,7 @@ Eager to tackle real-world engineering challenges, learn directly from industry 
 ### Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,C,cpp,cs,js,go" />
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,go" />
 </p>
 
 ### Frontend
@@ -165,7 +165,7 @@ An intelligent cybersecurity honeypot system that combines real-time threat dete
 | **Performance** | 99.95% detection accuracy, 50ms event processing, 5-second live map refresh |
 | **Security** | Zero-Trust Architecture, Deception Technology, Automated Incident Response |
 | **Impact** | 73% reduction in Mean Time to Detection (MTTD), automated global threat intelligence sharing |
-| **Repository** | [github.com/mfurqan/honeypot-security](https://github.com) |
+| **Repository** | [github.com/mfurqan/honeypot-security](https://github.com/MFurqan5/soc-monitoring-dashboard) |
 
 Captures IP, port, OS, tool signatures, headers, cookies, and payloads in real-time while feeding attackers fake data and recording every action for session replay.
 
@@ -178,7 +178,7 @@ Identifies repeat attackers via behavioral fingerprinting, auto-submits maliciou
 
 <p align="center">
   <a href="https://leetcode.com/mfurqan">
-    <img src="https://img.shields.io/badge/LeetCode-Problems%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-Problems Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://hackerrank.com/mfurqan">
     <img src="https://img.shields.io/badge/HackerRank-Certifications%20-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
