@@ -177,10 +177,10 @@ Identifies repeat attackers via behavioral fingerprinting, auto-submits maliciou
 ## 💻 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/mfurqan">
+  <a href="https://leetcode.com/u/MFurqan5">
     <img src="https://img.shields.io/badge/LeetCode-Problems Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://hackerrank.com/mfurqan">
+  <a href="https://www.hackerrank.com/profile/MFurqan5">
     <img src="https://img.shields.io/badge/HackerRank-Certifications%20-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
   </a>
 </p>
