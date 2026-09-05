@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://capsule-render.vercel.app/">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=MUHAMMAD%20FURQAN%20MUSTAFA&fontSize=32&fontColor=00FF9C&fontAlignY=50&desc=Backend%20%7C%20Data%20Analytics&descAlignY=75&descSize=16&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=MUHAMMAD%20FURQAN%20MUSTAFA&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%"/>
 </a>
 
 <a href="https://git.io/typing-svg">
