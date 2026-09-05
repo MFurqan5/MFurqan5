@@ -4,32 +4,47 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=MUHAMMAD%20FURQAN%20MUSTAFA&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%"/>
 </a>
 
+<br/>
+
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=AI+Engineer;Full-Stack+Developer;Building+Intelligent+Systems" alt="Typing SVG"/>
 </a>
 
-<br/>
+<br/><br/>
 
+<!-- Education & Location Badges -->
 <img src="https://img.shields.io/badge/BS_Computer_Science-UET_Lahore-7C3AED?style=for-the-badge&logo=academia&logoColor=white"/>
 <img src="https://img.shields.io/badge/Location-Lahore%2C_Pakistan-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
 
+<!-- SOCIAL BUTTONS - All in One Row -->
 <a href="https://www.linkedin.com/in/muhammad-furqan-mustafa-4a51a0328">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 <a href="mailto:muhammadfurqanmustafa9@gmail.com">
-<img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
 <a href="https://github.com/MFurqan5">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://leetcode.com/u/MFurqan5">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=mfurqan&label=PROFILE%20VIEWS&color=6366F1&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/mfurqan?label=FOLLOWERS&style=for-the-badge&color=7C3AED"/>
-<img src="https://img.shields.io/github/stars/mfurqan?label=STARS&style=for-the-badge&color=4F46E5"/>
+<!-- STATS BADGES -->
+<img src="https://komarev.com/ghpvc/?username=MFurqan5&label=PROFILE%20VIEWS&color=6366F1&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/MFurqan5?label=FOLLOWERS&style=for-the-badge&color=7C3AED"/>
+<img src="https://img.shields.io/github/stars/MFurqan5?label=STARS&style=for-the-badge&color=4F46E5"/>
 
 </div>
 
