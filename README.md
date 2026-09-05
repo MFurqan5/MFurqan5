@@ -191,7 +191,10 @@ Identifies repeat attackers via behavioral fingerprinting, auto-submits maliciou
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MFurqan5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=FFFFFF"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MFurqan5&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6"/>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MFurqan5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=FFFFFF"/>
+  <img width="48%" src="https://streak-stats.demolab.com/?user=MFurqan5&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6"/>
+</div>
 </div>
 
 <br/>
