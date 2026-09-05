@@ -21,22 +21,15 @@
 
 <a href="https://www.linkedin.com/in/muhammad-furqan-mustafa-4a51a0328">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="#">
+</a><a href="#">
   <img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:muhammadfurqanmustafa9@gmail.com">
+</a><a href="mailto:muhammadfurqanmustafa9@gmail.com">
   <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="#">
+</a><a href="#">
   <img src="https://img.shields.io/badge/CONTACT-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/MFurqan5">
+</a><a href="https://github.com/MFurqan5">
   <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="#">
+</a><a href="#">
   <img src="https://img.shields.io/badge/FOLLOW-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
