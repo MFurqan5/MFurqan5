@@ -203,9 +203,8 @@ Identifies repeat attackers via behavioral fingerprinting, auto-submits maliciou
 ---
 
 ## 🏅 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MFurqan5&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy-nbzfrytfw-mfurqan5s-projects.vercel.app/?username=MFurqan5&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15"/>
 </div>
 
 ---
