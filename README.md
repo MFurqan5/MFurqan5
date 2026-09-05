@@ -222,9 +222,9 @@ Identifies repeat attackers via behavioral fingerprinting, auto-submits maliciou
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MFurqan5/mfurqan/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MFurqan5/mfurqan/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/mfurqan/MFurqan5/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MFurqan5/MFurqan5/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MFurqan5/MFurqan5/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/MFurqan5/MFurqan5/output/github-contribution-grid-snake-dark.svg" width="100%"/>
   </picture>
 </div>
 
