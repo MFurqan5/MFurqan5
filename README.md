@@ -18,7 +18,8 @@
 </div>
 
 ---
-**###👨‍💻 About Me**
+
+### 👨‍💻 About Me
 
 Motivated Computer Science student with a strong foundation in software engineering and full-stack development, actively transitioning into Artificial Intelligence and Machine Learning engineering. Hands-on experience building production-style systems through academic and personal projects, with deep proficiency in the Python ecosystem, modern development practices, and multi-database architectures.
 
