@@ -12,12 +12,13 @@
 <br/><br/>
 <a href="https://www.linkedin.com/in/muhammad-furqan-mustafa-4a51a0328"><img src="https://img.shields.io/badge/LinkedIn-Connect-1B4965?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:muhammadfurqanmustafa9@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-14213D?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/MFurqan5"><img src="https://img.shields.io/badge/GitHub-Follow-0B1F3A?style=for-the-badge&logo=github&logoColor=white"/></a>
 <br/><br/>
-<img src="https://komarev.com/ghpvc/?username=mfurqan&label=PROFILE%20VIEWS&color=1B4965&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/mfurqan?label=FOLLOWERS&style=for-the-badge&color=14213D"/>
-<img src="https://img.shields.io/github/stars/mfurqan?label=STARS&style=for-the-badge&color=0B1F3A"/>
+<img src="https://komarev.com/ghpvc/?username=MFurqan5&label=PROFILE%20VIEWS&color=1B4965&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/MFurqan5?label=FOLLOWERS&style=for-the-badge&color=14213D"/>
+<img src="https://img.shields.io/github/stars/MFurqan5?label=STARS&style=for-the-badge&color=0B1F3A"/>
 </div>
 
-👨‍💻 About Me
+---
+**###👨‍💻 About Me**
 
 Motivated Computer Science student with a strong foundation in software engineering and full-stack development, actively transitioning into Artificial Intelligence and Machine Learning engineering. Hands-on experience building production-style systems through academic and personal projects, with deep proficiency in the Python ecosystem, modern development practices, and multi-database architectures.
 
