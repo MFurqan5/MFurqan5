@@ -1,4 +1,4 @@
-```
+
 <div align="center">
 <a href="https://capsule-render.vercel.app/">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:2E6FF2&height=200&section=header&text=MUHAMMAD%20FURQAN%20MUSTAFA&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%"/>
