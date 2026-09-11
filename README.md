@@ -231,7 +231,7 @@ current_focus:
     - Quantum Machine Learning Research
 
   open_to:
-    - Senior Software Engineer / AI Engineer Roles
+    - Software Engineer / AI Engineer Roles
     - Technical Leadership & Architecture Positions
     - Open Source Collaborations
 ```
