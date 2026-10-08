@@ -27,7 +27,7 @@ Demonstrates a structured, analytical approach to problem-solving and a proven a
 
 Eager to tackle real-world engineering challenges, learn directly from industry experts, and continuously grow through professional experience  with a long-term vision to architect AI-first products that redefine how businesses and users interact with intelligent technology.
 
-### Core Competencies
+### Learning & Exploring
 
 | Area | Focus |
 |------|-------|
